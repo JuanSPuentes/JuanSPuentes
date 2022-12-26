@@ -1,7 +1,7 @@
 # Hola, Soy Sebastian Puentes 
 
 <img align="center" src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47txez3s6yod65feeta3yc99vygi7xn74eeu06o28t&rid=giphy.gif&ct=g" alt="Banner Sebastian Puentes, Django Developer">
-Django es un framework de desarrollo de aplicaciones web de código abierto basado en Python. Como programador Django, soy capaz de crear aplicaciones web robustas y escalables utilizando el marco de trabajo Django y las herramientas y bibliotecas de Python. Soy proficiente en la implementación de bases de datos, el manejo de peticiones HTTP y la creación de interfaces de usuario atractivas y fáciles de usar. También tengo experiencia en la implementación y el mantenimiento de aplicaciones Django en entornos de producción. Estoy siempre buscando nuevas formas de mejorar mis habilidades y aprender sobre las últimas tendencias en el desarrollo de aplicaciones web.<a href="https://stars.github.com/">GitHub Star 🌟</a>
+Django es un framework de desarrollo de aplicaciones web de código abierto basado en Python. Como programador Django, soy capaz de crear aplicaciones web robustas y escalables utilizando el marco de trabajo Django y las herramientas y bibliotecas de Python. Soy proficiente en la implementación de bases de datos, el manejo de peticiones HTTP y la creación de interfaces de usuario atractivas y fáciles de usar. También tengo experiencia en la implementación y el mantenimiento de aplicaciones Django en entornos de producción. Estoy siempre buscando nuevas formas de mejorar mis habilidades y aprender sobre las últimas tendencias en el desarrollo de aplicaciones web.
 
 
 ## Find me around the web 🌎: 
