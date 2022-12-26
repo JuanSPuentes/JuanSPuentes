@@ -9,6 +9,6 @@ Django es un framework de desarrollo de aplicaciones web de código abierto basa
 - Mi portafolio Web
 <a href="#">
 <img align="center" width="auto" height="300" src="https://www.iepilosophia.co/img/constru.gif">
-</a> 📹 ✍🏾
+</a>
 - Donde comparto progresos 
 <a href="https://www.linkedin.com/in/sebaspuentes/">LinkedIn</a> 💼
