@@ -7,8 +7,8 @@ Django es un framework de desarrollo de aplicaciones web de código abierto basa
 ## Find me around the web 🌎: 
 <a href="https://github.com/JuanSPuentes"><img align="center" src="https://www.freecodecamp.org/news/content/images/2020/02/DjangoRocket.gif"></a> 
 - Mi portafolio Web
-<a href="#">
-<img align="center" width="auto" height="300" src="https://www.iepilosophia.co/img/constru.gif">
+<a href="https://sebastianpuentes.herokuapp.com">
+<img align="center" width="auto" height="300" src="https://i.imgur.com/4pi3awj.png">
 </a>
 - Donde comparto progresos 
 <a href="https://www.linkedin.com/in/sebaspuentes/">LinkedIn</a> 💼
