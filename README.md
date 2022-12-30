@@ -10,5 +10,6 @@ Django es un framework de desarrollo de aplicaciones web de código abierto basa
 <a href="https://sebastianpuentes.herokuapp.com">
 <img align="center" width="auto" height="300" src="https://i.imgur.com/4pi3awj.png">
 </a>
+
 - Donde comparto progresos 
 <a href="https://www.linkedin.com/in/sebaspuentes/">LinkedIn</a> 💼
